@@ -13,3 +13,12 @@ Profesor del departamento de Informática de la Universidad de Jaén.
 * **Web**: http://vrivas.es
 * **GitHub**: https://github.com/vrivas/
 * **Trello**: https://trello.com/vrivas_ujaen_es
+
+### Alba Gómez Liébana
+<img src='/vrivas-2022.png' width='200px'>
+
+Estudiante de Ingeniería Informática en la Universidad de Jaén.
+* **Correo**: agl00108@red.ujaen.es
+* **Web**: http://agl00108.es
+* **GitHub**: https://github.com/agl00108/
+* **Trello**: https://trello.com/agl00108/
